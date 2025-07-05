@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=obfstr&show_icons=true&theme=dark" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=obfstr&show_icons=true&theme=dark&hide_rank=true" width="48%" />
 
   <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obfstr&theme=dark" width="48%" />
